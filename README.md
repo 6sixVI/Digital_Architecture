@@ -12,7 +12,8 @@ Topics to cover in some future --
 - DevSecOps
 - Relentless pursuit of automation and realization
 - Time exploits everything - architectural fragmentation and debt
-- Anti-Fragility map to CMMI/ SEI Level 5
+- Anti-Fragility
+- Variability v. Complexity
 - D.I.E. > C.I.A.
 - Reaction --> Prediction via Adaptability
 - Removal of prediction, planning, and perfection as desirable goals in architecture.
